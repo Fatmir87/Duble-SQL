@@ -27,7 +27,7 @@ public class DBconnector {
 					+ "#customers tr:hover {background-color: #ddd;}\n" + "\n" + "#customers th {\n"
 					+ "  padding-top: 12px;\n" + "  padding-bottom: 12px;\n" + "  text-align: left;\n"
 					+ "  background-color: #21a6d8;\n" + "  color: white;\n" + "}\n" + "</style>" + "" + "" + "" + ""
-					+ "" + "<table id=\"customers\">\n" + "  <tr>\n" + "    <th>Title</th>\n" + "    <th>rating</th>\n"
+					+ "" + "<table id=\"customers\">\n" + "  <tr>\n" + "    <th>Title</th>\n" + "    <th>Rating</th>\n"
 					+ "    <th>Type</th>\n" + "  </tr>";
 
 			while (rs.next()) {
